@@ -1,12 +1,22 @@
 # Yacht Pilates Website
 
-Open `index.html` in a browser to view the site.
+GitHub- and Netlify-ready static website for Yacht Pilates.
 
-Pages included:
+## Pages
+- `index.html` — homepage
+- `event.html` — July 25 Mini Wellness Retreat
+- `aloni-ford.html` — Aloni Ford bio
+- `renay-compere.html` — Renay Compere bio
 
-- `index.html` - homepage
-- `event.html` - upcoming Dockside Edition event
-- `aloni-ford.html` - founder page
-- `renay-compere.html` - instructor page
+## Publish
+Upload all files and folders in this directory to the root of your GitHub repository. Netlify is configured to publish the repository root through `netlify.toml`.
 
-Photos are stored in `assets/images` and are already integrated into the pages.
+## Tickets
+The July 25 reserve buttons currently email `aloni@fordproduction.com`. Replace those links with the new Eventbrite URL when available.
+
+
+## Tickets
+
+All reservation buttons link to the July 25 Eventbrite page:
+
+`https://www.eventbrite.com/e/yacht-pilates-sound-bath-brunch-tickets-1993731586846`
